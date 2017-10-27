@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquationFormer", "EquationFormer\EquationFormer.csproj", "{2B9CED34-FBCA-4F62-933F-50C4183D78FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquationFormer.Test", "EquationFormer.Test\EquationFormer.Test.csproj", "{4D925656-86F4-4CAD-BE9D-FBA85EE11669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B9CED34-FBCA-4F62-933F-50C4183D78FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B9CED34-FBCA-4F62-933F-50C4183D78FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B9CED34-FBCA-4F62-933F-50C4183D78FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B9CED34-FBCA-4F62-933F-50C4183D78FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D925656-86F4-4CAD-BE9D-FBA85EE11669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D925656-86F4-4CAD-BE9D-FBA85EE11669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D925656-86F4-4CAD-BE9D-FBA85EE11669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D925656-86F4-4CAD-BE9D-FBA85EE11669}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73F8B05A-02B6-42CC-A639-62A6677EF9FA}
+	EndGlobalSection
+EndGlobal
