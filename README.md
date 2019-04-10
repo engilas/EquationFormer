@@ -8,6 +8,7 @@ The program opens the brackets in the equation, leads similar terms, moves all t
 
 Examples:
 
+***
 
 Input:
 `(5x+ 5y)/5 -x^2=1`
@@ -17,9 +18,10 @@ Output:
 
 ***
 
-
 Input:
 `x^2 + 2y = 2((2x-1)/2 + 2.5(x + y^2) - 7.11)`
 
 Output: 
 `x^2 - 5y^2 - 7x + 2y + 15.22 = 0`
+
+***
