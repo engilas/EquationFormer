@@ -8,11 +8,14 @@ The program opens the brackets in the equation, leads similar terms, moves all t
 
 Examples:
 
+
 Input:
 `(5x+ 5y)/5 -x^2=1`
 
 Output:
 `- x^2 + x + y - 1 = 0"`
+
+***
 
 
 Input:
